@@ -2,4 +2,7 @@ I am very new to programming and I love Udacity. It has made the journey way eas
 As you can also say, I have just started using Git, which is something that I was looking for (without 
 knowing what I was looking for) since I didn't know how to backup and keep track of versions.
 The whole command line syntaxes are going to take a while to be familiar with, but so far so good.
+
+Since the first attempt to upload this was not successful, I am adding some changes. This is the change!
+
 Khash
