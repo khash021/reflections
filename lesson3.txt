@@ -5,4 +5,8 @@ The whole command line syntaxes are going to take a while to be familiar with, b
 
 Since the first attempt to upload this was not successful, I am adding some changes. This is the change!
 
+I was getting a lot of errors when I was trying to push. Then as recommended by Git, I tried to pull 
+first before pushing, this didn't work either. So I just deleted the whole thing on my PC, and then 
+cloned it again. This is to test the commit again.
+
 Khash
