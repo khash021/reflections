@@ -7,7 +7,9 @@ Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
     I have not read the automatic update section yet. But I have added this
-    response using Github website. 
+    response using Github website.
+    I think this might be due to the fact that if someone has changed the GitHub file,
+    then we don't want to automatically over-write our local drive. 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
